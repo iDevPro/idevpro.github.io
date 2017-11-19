@@ -1,12 +1,10 @@
 {
   "applinks": {
-    "apps": [],
+  	"apps": [],
     "details": [
       {
-        "appID": "F5S89E6WBS.ru.lib.public.debug",
-        "paths": [
-          "*"
-        ]
+        "appID": "F5S89E6WBS.ru.public.lib.debug",
+        "paths": ["*"]
       }
     ]
   }
