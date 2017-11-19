@@ -1,11 +1,23 @@
 {
-  "applinks": {
-  	"apps": [],
-    "details": [
-      {
-        "appID": "F5S89E6WBS.ru.public.lib.debug",
-        "paths": ["*"]
-      }
-    ]
-  }
+	"applinks": {
+		"app": [],
+		"details": [
+			{
+				"appID": "F5S89E6WBS.ru.public.lib.debug",
+				"paths": [ "*" ]
+			},
+			{
+				"appID": "F5S89E6WBS.ru.public.lib.city",
+				"paths": [ "*" ]
+			},
+			{
+				"appID": "F5S89E6WBS.ru.public.lib.dev",
+				"paths": [ "*" ]
+			},
+			{
+				"appID": "F5S89E6WBS.ru.public.lib.rc",
+				"paths": [ "*" ]
+			}
+		]
+	}
 }
